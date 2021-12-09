@@ -63,5 +63,4 @@ Lessons:
 * bayes ii 
 * mcmc 
 * pymc bayesian regression 
-* ab testing 
-Created on 12/08/2021 at 19:09 
+* ab testing
